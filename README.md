@@ -5,4 +5,5 @@
     "connect",
     "disconnect",
     "join-room",
+    "user-joined"
   ]
