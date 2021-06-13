@@ -9,8 +9,7 @@
 https://live-now-751c4.web.app/golive
 ```
 - After that host needs to share his link with another person and when the second person joining the call by URL the first person has to accept the request so that both can do a video call.
-- **Important**
-- Both users has to give permission of camera and microphone so that they can use service
+- **Important** Both users has to give permission of camera and microphone so that they can use service
  
 ## Authors
 
